@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Susu" size="1.000000 1.000000" />
+    <ImageTarget name="Buah" size="1.000000 1.000000" />
+    <ImageTarget name="Sayur" size="1.000000 1.000000" />
+    <ImageTarget name="Pokok" size="1.000000 1.000000" />
+    <ImageTarget name="Lauk" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
